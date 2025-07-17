@@ -1,0 +1,12 @@
+release/batiment.o
+release/main.o
+release/mainwindow.o
+release/mainwindow2.o
+release/maison.o
+release/parc.o
+release/simulation.o
+release/usine.o
+release/ville.o
+release/qrc_backimg.o
+release/moc_mainwindow.o
+release/moc_mainwindow2.o
